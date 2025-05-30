@@ -94,22 +94,20 @@ Les directives de contribution ne sont pas définies pour ce projet. Si vous sou
 ### Affichage des patients avec pagination :
 0![.1446764708-5c729c13-b693-4909-a0d6-e93e808337ac](https://github.com/user-attachments/assets/6bd84934-d8db-452f-a5b6-9cbb9e9d2661)
 
-![446761155-9dced65f-69e3-4685-af35-6941dbfa1cbe](https://github.com/user-attachments/assets/1be64207-4751-42dc-9a82-6ddef95aeab4)
-
 ![446760783-c940a833-3311-4658-8f2c-261839f2edfa](https://github.com/user-attachments/assets/c5c04b77-9be7-4233-8b8e-e4c919730518)
 +0
+
+![446761155-9dced65f-69e3-4685-af35-6941dbfa1cbe](https://github.com/user-attachments/assets/1be64207-4751-42dc-9a82-6ddef95aeab4)
 
 ![446763561-4ca98b2c-fd0f-41e4-95f0-8670d5ea4e1d](https://github.com/user-attachments/assets/74bdb21f-1d37-4b76-8d17-0ce10dcec95c)
 
 ![446762382-c4f8a798-d3cc-44c5-817b-9ba9b3a67bd5](https://github.com/user-attachments/assets/55669a22-1c3b-4ef8-8c11-798cfc98f875)
 
-![446761827-f5021e9d-916e-4e9f-948e-9255498003f6](https://github.com/user-attachments/assets/68bcc816-3e81-419e-a89c-fefe6cae7157)
-
 ![446761949-b80166ac-54ce-4a64-921e-dc9a55f3a411](https://github.com/user-attachments/assets/7e3611f8-dd5b-496d-a348-bc392f54cb8d)
 
 ![446761640-476c4252-7437-4a52-a4b2-76d827b0c4ec](https://github.com/user-attachments/assets/b2abf0a4-f7ae-427a-ba9a-9d9e333fe503)
 
-
+![446761827-f5021e9d-916e-4e9f-948e-9255498003f6](https://github.com/user-attachments/assets/68bcc816-3e81-419e-a89c-fefe6cae7157)
 
 
 
